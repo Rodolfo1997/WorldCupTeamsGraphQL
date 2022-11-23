@@ -1,0 +1,2 @@
+# WorldCupTeamsGraphQL
+WorldCupTeamsGraphQL
